@@ -1,0 +1,43 @@
+.programmes {
+  background: #f4f4f4;
+  text-align: center;
+}
+
+.programme-grid {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+.programme-card {
+  background: white;
+  padding: 30px;
+  width: 280px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: 0.3s ease;
+}
+
+.programme-card:hover {
+  transform: translateY(-5px);
+}
+
+.programme-card h3 {
+  margin-bottom: 15px;
+}
+
+.programme-card button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  border: none;
+  background: #002147;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.programme-card button:hover {
+  background: #004aad;
+}
