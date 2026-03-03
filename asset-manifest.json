@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ascencia-ui/static/css/main.798aba84.css",
+    "main.js": "/ascencia-ui/static/js/main.1587fd37.js",
+    "index.html": "/ascencia-ui/index.html",
+    "main.798aba84.css.map": "/ascencia-ui/static/css/main.798aba84.css.map",
+    "main.1587fd37.js.map": "/ascencia-ui/static/js/main.1587fd37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.798aba84.css",
+    "static/js/main.1587fd37.js"
+  ]
+}
